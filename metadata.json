@@ -1,0 +1,5 @@
+{
+  "name": "Eduguide",
+  "description": "AI-powered educational platform for personalized learning, course generation, and interactive tutoring.",
+  "requestFramePermissions": ["microphone"]
+}
